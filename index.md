@@ -1,6 +1,6 @@
 ## 맛보기...
 
-블로그 테스트 [이거 좋을까?]](https://github.com/pianist5555/pianist5555.github.io/edit/main/index.md) 끝.
+블로그 테스트 [이거 좋을까?](https://github.com/pianist5555/pianist5555.github.io/edit/main/index.md) 끝.
 
 
 ### 마크 다운 테스트
